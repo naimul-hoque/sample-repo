@@ -1,0 +1,2 @@
+I am a simple text file.
+I am second line.
